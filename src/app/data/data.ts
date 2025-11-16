@@ -13,8 +13,6 @@ import {
   SiTailwindcss,
   SiExpress,
   SiRedux,
-  SiSocketdotio,
-  SiFirebase,
   SiMongodb,
   SiMysql,
   SiLangchain,
@@ -28,19 +26,14 @@ import {
   FaCss3Alt,
   FaJs,
   FaGit,
-  FaFigma,
   FaCuttlefish,
 } from "react-icons/fa";
 import {
-  SiTypescript,
-  SiNextdotjs,
-  SiFramer,
   SiPostman,
   SiVercel,
 } from "react-icons/si";
 import { LuSquareCode } from "react-icons/lu";
 import { IoLogoGithub } from "react-icons/io";
-import { DiAws, DiJava } from "react-icons/di";
 
 // =================================================================
 // 👤 PERSONAL INFORMATION
