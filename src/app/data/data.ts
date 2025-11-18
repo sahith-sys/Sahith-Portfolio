@@ -185,7 +185,7 @@ export const projects = [
       { name: "Gemini API", icon: FaCuttlefish, color: "#7289DA" },
     ],
     githubLink: "https://github.com/sahith-sys/PrepWise",
-    image: "/img/projectimage.jfif", // Update with the actual project image
+    image: "/img/project1.png", // Update with the actual project image
   },
   {
     name: "AdSnap Studio",
